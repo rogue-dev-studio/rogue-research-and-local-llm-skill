@@ -11,17 +11,17 @@ description: >-
 
 ## Procedure
 
-1. Rumuskan pertanyaan riset + kriteria selesai.
-2. Pilih jalur: local (`ollama`) vs web research MCP vs NotebookLM corpus.
-3. Simpan sumber/URL di `project/{id}/notes/` atau docs research.
-4. Sintesis dengan sitasi; tandai klaim belum terverifikasi.
-5. Jangan mengirim data pasien/rahasia ke layanan cloud tanpa izin.
+1. Formulate research question + completion criteria.
+2. Choose path: local (`ollama`) vs web research MCP vs NotebookLM corpus.
+3. Save sources/URLs in `project/{id}/notes/` or research docs.
+4. Synthesize with citations; mark unverified claims.
+5. Do not send patient/confidential data to cloud services without permission.
 
 ## DoD
 
-- [ ] Jawaban + sumber
-- [ ] Asumsi jelas
-- [ ] Kebijakan data dihormati
+- [ ] Answer + sources
+- [ ] Assumptions clear
+- [ ] Data policy respected
 ## Attribution
 
 <!-- ATTRIBUTION: Rogue Development | https://github.com/rogue-dev-studio | DO-NOT-REMOVE -->
